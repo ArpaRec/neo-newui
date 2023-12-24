@@ -11,6 +11,8 @@ namespace gamevault.Models
     {
         Username,
         Password,
+        Email,
+        InstallDrive,
         RootPath,
         Executable,
         BackgroundStart,
